@@ -26,7 +26,7 @@ import org.apache.pdfbox.pdmodel.edit.*;
 import org.apache.pdfbox.pdmodel.font.*;
 
 public class Controller {
-	String name = "EjPin Control";
+	String name = "EjPin Control Free";
 	Kode_gen genKode = new Kode_gen();
 	JFileChooser fc = new JFileChooser();
 	Settings settings = new Settings();
